@@ -5,7 +5,7 @@
 ### Full-Stack / Web Application Developer
 
 **React · TypeScript · Node.js**  
-Baghdad, Iraq · Open to software development opportunities and relocation to Germany
+Baghdad, Iraq · Open to software development opportunities
 
 [Email](mailto:firasalsamaraai@gmail.com) · [LinkedIn](https://linkedin.com/in/firas-alsamaraai-255051257)
 
