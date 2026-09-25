@@ -77,6 +77,4 @@ Huazhong University of Science and Technology (HUST), China · 2018–2022
 
 I'm interested in opportunities involving **full-stack web applications, REST APIs, and business-management systems**.
 
-**Open to relocation to Germany.** I require an appropriate German employment visa or residence permit.
-
 [Email me](mailto:firasalsamaraai@gmail.com) · [Connect on LinkedIn](https://linkedin.com/in/firas-alsamaraai-255051257)
