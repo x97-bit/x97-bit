@@ -1,80 +1,65 @@
-![Firas Ahmed Sadiq — Full-Stack / Web Application Developer — React, TypeScript, Node.js](assets/firas-profile-banner.png)
-
 # Firas Ahmed Sadiq
 
 ### Full-Stack / Web Application Developer
 
-**React · TypeScript · Node.js**  
-Baghdad, Iraq · Open to software development opportunities
+I build business applications with **React, TypeScript and Node.js**, with a focus on clear workflows, maintainable code and practical access controls.
+
+**Baghdad, Iraq · Freelance since January 2022 · Open to full-stack development opportunities**
 
 [Email](mailto:firasalsamaraai@gmail.com) · [LinkedIn](https://linkedin.com/in/firas-alsamaraai-255051257)
 
----
+## Featured work
 
-## About me
+### Milon ERP — mobile-phone retail operations
 
-I'm a freelance full-stack developer with **4+ years of experience** delivering and maintaining web applications, REST APIs, administrative dashboards, and business-management systems.
+**Flagship project.** An Arabic-first application connecting IMEI-based device inventory, purchases, sales, customer balances and store operations.
 
-My work connects business requirements with practical software: database schemas, backend services, responsive interfaces, and the access controls that support day-to-day operations. I work across the delivery lifecycle, from requirements and implementation to testing, deployment, maintenance, and support.
+- **Engineering focus:** a typed React–tRPC boundary, domain-specific inventory and transactional sales workflows.
+- **Stack:** React, TypeScript, Node.js, Express, tRPC, Drizzle ORM and MySQL.
+- **Evidence:** the recorded review passed type checking, the production build and **254 service-free tests**. Four service-dependent test files and browser acceptance remain outside that result.
 
-**Primary focus:** full-stack web development, business applications, and security-conscious implementation.
+[Read the technical case study](https://github.com/x97-bit/milon-erp-showcase)
 
-## Selected project experience
+### Construction company management
 
-### 01 / Contracting Company Management System
+Project and operations workflows for a contracting business, connecting projects, contracts, expenses, employees and administrative work. My focus is translating business processes into coherent data models, interfaces and backend operations.
 
-A centralized application for managing **projects, contracts, expenses, employees, and business operations**.
+### International freight operations
 
-- Translated contracting workflows into an application that brings related operational records together.
-- Focus: business-process modeling, administrative interfaces, and structured data management.
+Operational and financial workflows covering transport activity, payments, balances, expenses and reporting. My focus is connecting related records and making the workflow understandable for its users.
 
-### 02 / International Freight Transportation Platform
+> Application source repositories remain private. Public case studies describe selected engineering work without exposing client records, credentials or private source code. They are not public deployments or a claim of production certification.
 
-A business platform covering **shipments, transport stages, payments, balances, expenses, and revenue**.
+## Technical focus
 
-- Developed workflows connecting transport activity with the financial records associated with it.
-- Focus: multi-stage workflows, operational tracking, and financial data organization.
-
-### 03 / Mobile-Phone Retail Management System
-
-A retail application for **products, inventory, sales, customers, and stock movements**.
-
-- Created a controlled interface for managing retail records and inventory activity.
-- Focus: inventory workflows, sales operations, and application access controls.
-
-> Project source repositories are currently private. These summaries describe experience listed in my CV; they do not link to public source code or live demos.
-
-## Technical toolkit
-
-| Area | Technologies & practices |
+| Area | Tools and practices |
 | --- | --- |
-| Frontend | React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap |
-| Backend | Node.js, Express.js, Laravel, PHP, Python, REST APIs |
-| Data | PostgreSQL, MySQL, SQLite, MongoDB, database design, data validation |
-| Delivery | Git, GitHub, Docker, Linux, testing, debugging, deployment |
-| Application security | Authentication, authorization, RBAC, password and session security, OWASP Top 10, dependency review |
+| Primary stack | React, TypeScript, Node.js, Express, SQL |
+| APIs and data | REST APIs, tRPC, MySQL, PostgreSQL, schema design and validation |
+| Interfaces | Tailwind CSS, responsive layouts, Arabic RTL workflows |
+| Delivery | Git, pull requests, testing, debugging, Docker, Linux and deployment |
+| Application security | Authentication, authorization, RBAC, password/session handling and dependency review |
 
-## How I work
+Additional experience includes Next.js, Laravel/PHP, Python, SQLite and MongoDB.
 
-- **Understand the workflow:** turn requirements into specifications, data models, and application behavior.
-- **Build end to end:** connect responsive interfaces with backend services and databases.
-- **Implement access controls:** apply authentication, authorization, input validation, and secure error handling.
-- **Test and maintain:** perform functional and authorized security testing, troubleshoot issues, and support deployed applications.
+## Engineering approach
+
+- Start with the business workflow and define acceptance criteria.
+- Keep the data model, API and interface consistent.
+- Review authorization and failure paths, not only successful screens.
+- Record what was tested, what failed and what remains unverified.
+- Prefer small, explainable changes over cosmetic activity.
 
 ## Background
 
-**Freelance Full-Stack Web Developer — Application Security Focus**  
-Self-employed · January 2022–present · Baghdad, Iraq
+**Freelance Full-Stack Web Developer** — January 2022–present  
+Projects across contracting, international freight, retail, skincare and pharmaceuticals.
 
-Client sectors include contracting, international freight, retail, skincare, and pharmaceuticals.
+**Bachelor's Degree in Telecommunications Engineering** — Huazhong University of Science and Technology, China, 2018–2022.
 
-**Bachelor's Degree in Telecommunications Engineering**  
-Huazhong University of Science and Technology (HUST), China · 2018–2022
+**Languages:** Arabic — Native · English — Advanced · German — Basic · Chinese — Beginner
 
-**Languages:** Arabic — Native · English — Advanced · Chinese — Beginner · German — Basic
+## Contact
 
-## Let's connect
-
-I'm interested in opportunities involving **full-stack web applications, REST APIs, and business-management systems**.
-
-[Email me](mailto:firasalsamaraai@gmail.com) · [Connect on LinkedIn](https://linkedin.com/in/firas-alsamaraai-255051257)
+Interested in full-stack web applications, business software and API development?  
+[Get in touch](mailto:firasalsamaraai@gmail.com) · [LinkedIn profile](https://linkedin.com/in/firas-alsamaraai-255051257)
