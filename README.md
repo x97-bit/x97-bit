@@ -4,7 +4,7 @@
 
 I build business applications with **React, TypeScript and Node.js**, with a focus on clear workflows, maintainable code and practical access controls.
 
-**Baghdad, Iraq · Freelance since January 2022 · Open to full-stack development opportunities**
+**Baghdad, Iraq · Freelance since September 2022 · Open to full-stack development opportunities**
 
 [Email](mailto:firasalsamaraai@gmail.com) · [LinkedIn](https://linkedin.com/in/firas-alsamaraai-255051257)
 
@@ -52,7 +52,7 @@ Additional experience includes Next.js, Laravel/PHP, Python, SQLite and MongoDB.
 
 ## Background
 
-**Freelance Full-Stack Web Developer** — January 2022–present  
+**Freelance Full-Stack Web Developer** — September 2022–present  
 Projects across contracting, international freight, retail, skincare and pharmaceuticals.
 
 **Bachelor's Degree in Telecommunications Engineering** — Huazhong University of Science and Technology, China, 2018–2022.
